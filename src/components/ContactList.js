@@ -1,9 +1,9 @@
 import Table from 'react-bootstrap/Table'
 import Contact from './Contact'
-import img1 from '../img/Harry.jpg'
-import img2 from '../img/Heisenberg.png'
-import img3 from '../img/Pinkman.jpg'
-import img4 from '../img/Katniss.jpg'
+import img1 from '../img/Harry-min.jpg'
+import img2 from '../img/Heisenberg-min.png'
+import img3 from '../img/Pinkman-min.jpg'
+import img4 from '../img/Katniss-min.jpg'
 
 export default function ContactList(props){
 
